@@ -1,0 +1,5 @@
+[root@ns1a ~]# service dhcpd status
+1=partner_down, 2=normal, 3=communications_interrupted, 8=shut_down, a=startup, b=recover_wait
+partner-state = 00:00:00:02
+local-state = 00:00:00:02
+dhcpd (pid  3313) is running...
